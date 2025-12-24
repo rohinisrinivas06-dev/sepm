@@ -2,3 +2,5 @@ operator
 manipulate
 risk
 strap
+modify
+master skill
